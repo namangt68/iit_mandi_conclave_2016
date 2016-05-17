@@ -1,0 +1,37 @@
+/* bootstrap 3 helpers */
+
+header {
+    background-color:#FFFFFF;
+}
+
+#nav.affix {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index:10;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+.navbar-nav>li>a{color:#FFFFFF !important;}
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+
+}
+
+figure img {
+    display: block;
+}
+figcaption {
+    background: rgba(0, 0, 0, 0.8);
+    color: #FFF;
+ 
+}
+
