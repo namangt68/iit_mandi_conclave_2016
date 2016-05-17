@@ -4,10 +4,12 @@ One page mobile responsive website with fixed top floating navbar. Can be used a
 
 ###Screenshots
 ####Desktop
-![Desktop unscrolled](/1.png?raw=true "Header above navbar")
+#####Header above navbar
+![Desktop unscrolled](/1.png?raw=true =1200x "Header above navbar")
 
-![Desktop scrolled](/2.png?raw=true "Floating fixed top navbar")
+#####Floating fixed top navbar
+![Desktop scrolled](/2.png?raw=true =1200x "Floating fixed top navbar")
 
 ####Mobile
-![Mobile navbar](/3.png?raw=true "Mobile nav menu")
+![Mobile navbar](/3.png?raw=true =320x640 "Mobile nav menu")
 
